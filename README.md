@@ -1,2 +1,3 @@
-# MDS-564-Project
-Class Project
+# Purpose
+
+New York is the most populous and densely city in the United States. The NYPD (New York City Police Department) has been the largest police force in the United States with over 35,000 sworn officers and thanks to their service violent crime in New York has decreased more than 75% from 1993 to 2005 and continues to decrease. New York is known for its five boroughs (Manhattan, Brooklyn, Queens, Bronx and Staten Island) and with four of the boroughs having a population over 1.4 million; The NYPD can’t equally deploy the same amount of police to each borough. The idea of the project is to help the NYPD better deploy their police force in areas where dangerous crime will most likely happen in the city. However due to the resource this project will only look into the crimes that fall on the year 2014 to 2015.  
